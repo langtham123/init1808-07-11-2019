@@ -1,2 +1,3 @@
-const a = (5,6);
-console.log(a);
+let x = 100;
+--x;
+console.log(x);
